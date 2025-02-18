@@ -21,7 +21,9 @@
   </table>
   <tbody>
     <tr>
-        <td>($usuario['id'])
+        <td>($usuario['id'])</td>
+        <td>($usuario['Nombre'])</td>
+        <td>($usuario['Apellido'])</td>
     </tr>
   </tbody>
 </body>
